@@ -1,9 +1,10 @@
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20👋&fontSize=90" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋&fontSize=90" />
 </p>
+
 <h1 align="center">Let's connect and have a chat! 💬</h1>
 
-<p align='center'>
+<p align="center">
   <a href="https://www.linkedin.com/in/sabbir-ahmed-cuet-ete">
     <img height="32" width="32" src="https://github.com/user-attachments/assets/8fd66695-f6c3-41d9-b670-022c90d99a38" />
   </a>
@@ -15,7 +16,8 @@
   </a>
 </p>
 
-## Short Bio:
+<h2>Short Bio:</h2>
+
 ```yaml
 Name: Sabbir Ahmed
 
@@ -44,7 +46,7 @@ Field of Interests: [
 Job Experience: None
 ```
 
-## Some Tools I Have Used and Learned
+<h2>Some Tools I Have Used and Learned</h2>
 <p>
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -78,5 +80,7 @@ Job Experience: None
 ![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbir-ahmed12&theme=shadow_green&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-ahmed12&theme=shadow_green&layout=pie)](https://github.com/sabbir-ahmed12/github-readme-stats)  
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
           
